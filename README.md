@@ -63,7 +63,8 @@
 
 ## 📸 效果展示
 
-（可以放图 / 视频 / GIF / 系统测试截图）
+![16833f1ac112d06f17a1027b34e0bf1](https://github.com/user-attachments/assets/cdc9efca-4ac2-48fc-a023-478ed69351ff)
+
 
 ---
 
